@@ -75,7 +75,7 @@
 	},
 	"organization": {
 		"orgname": "GR-Product"
-	}
+	},
 	"infrastructure": {
 		"stemcells": null,
 		"resources": [
